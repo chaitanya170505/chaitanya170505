@@ -7,9 +7,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently learning **React.js**.
+- 🔭 Currently diving into React.js and expanding my skill set.
 - 🌱 Learning what I need, pursuing what I love.
-- 💡 Driven by a curiosity for learning and a commitment to continuous improvement in my skills and knowledge.
+- 💡 Fueled by curiosity and a commitment to continuous growth in both my personal and professional journey.
 
 ---
 
