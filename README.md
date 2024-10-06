@@ -38,19 +38,19 @@
 
 ## 📂 Projects
 
-### 🎬 [Movie Search and Save Website](#)
+### 🎬 [Movie Search and Save Website](https://github.com/chaitanya170505/MovieVault)
 - **Description**: Developed a full-stack web application for searching and saving favorite movies.
 - **Tech Stack**: HTML, CSS, JavaScript, Node.js, Express, EJS, PostgreSQL, Passport.js, OMDb API
 - **Features**: User authentication, search movies, manage favorites, and watchlist.
 - **Deployed on Render**
 
-### 📝 [To-Do List App](#)
+### 📝 [To-Do List App](https://github.com/chaitanya170505/task-management-app)
 - **Description**: A task management tool with task filters and custom lists for personal productivity.
 - **Tech Stack**: Node.js, Express, PostgreSQL, Passport.js
 - **Features**: Task categorization (upcoming, completed, overdue), custom lists, and user authentication.
 - **Deployed on Render**
 
-### 🌐 [Portfolio Website](#)
+### 🌐 [Portfolio Website](https://github.com/chaitanya170505/Portfolio)
 - **Description**: Responsive portfolio showcasing my work and web development skills.
 - **Tech Stack**: HTML, CSS, JavaScript
 - **Features**: Responsive design, project display, and contact form.
