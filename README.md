@@ -101,8 +101,26 @@ CGPA: 8.63
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya170505&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya170505&theme=radical" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=chaitanya170505&show_icons=true&include_all_commits=true&count_private=true&theme=radical" 
+    alt="Chaitanya's GitHub Stats" 
+  />
+
+  <br/>
+
+  <img 
+    src="https://streak-stats.demolab.com?user=chaitanya170505&theme=radical" 
+    alt="Chaitanya's GitHub Streak" 
+  />
+
+  <br/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya170505&layout=compact&theme=radical" 
+    alt="Top Languages" 
+  />
+
 </div>
 
 ---
