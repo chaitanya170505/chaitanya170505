@@ -73,7 +73,7 @@ DSA • OOP • System Design Basics • Database Design • API Integration
 
 ### 🛒 E-Commerce Web Application with Data Analysis  
 📅 Dec 2025 – Jan 2026  
-🌐 https://ecommerce-nextjs.vercel.app  
+🌐 [https://ecommerce-nextjs.vercel.app ](https://e-store-5l6f.vercel.app/) 
 
 - Developed a full-stack e-commerce platform using **Next.js** with authentication, cart management, and order workflows.
 - Designed normalized PostgreSQL schemas to support analytics-ready transactional data.
