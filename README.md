@@ -102,24 +102,21 @@ CGPA: 8.63
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats-git-masterhstic.vercel.app/api?username=chaitanya170505&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" 
-    alt="Chaitanya's GitHub Stats" 
-  />
+  <a href="https://github.com/chaitanya170505">
+    <img src="https://github-readme-stats.vercel.app/api?username=chaitanya170505&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Chaitanya's GitHub Stats" />
+  </a>
 
-  <br/> <br/>
+  <br/>
 
-  <img 
-    src="https://github-readme-stats-git-masterhstic.vercel.app/api/top-langs/?username=chaitanya170505&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-  />
+  <a href="https://github.com/chaitanya170505">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya170505&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  </a>
 
-  <br/> <br/>
+  <br/>
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=chaitanya170505&theme=radical&hide_border=true" 
-    alt="Chaitanya's GitHub Streak" 
-  />
+  <a href="https://github.com/chaitanya170505">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya170505&theme=radical&hide_border=true" alt="Chaitanya's GitHub Streak" />
+  </a>
 
 </div>
 
